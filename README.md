@@ -6,11 +6,11 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=alekstar79&style=flat-square&color=blue" alt=""/>
   </p>
-  <span>
+  <p>
     <a href="https://alekstar79.github.io" target="_blank" rel="noopener noreferrer nofollow">
       GitHub.io
     </a>
-  </span>
+  </p>
 </div>
 
 ---
