@@ -6,9 +6,9 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=alekstar79&style=flat-square&color=blue" alt=""/>
   </p>
-  <p>
+  <p align="center">
     <a href="https://alekstar79.github.io" target="_blank" rel="noopener noreferrer nofollow">
-      GitHub.io
+      <strong>GitHub.io</strong>
     </a>
   </p>
 </div>
